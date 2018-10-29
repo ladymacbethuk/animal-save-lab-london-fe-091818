@@ -10,5 +10,5 @@ html {
 
 /* Write your solution here */
 @media screen and (min-width: 1280px){
-  background: 100%;
+  #bear {position: absolute; }
 }
