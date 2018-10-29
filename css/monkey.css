@@ -10,5 +10,5 @@ html {
 
 /* Write your solution here */
 @media screen and (min-width: 980px){
-  #monkey {position: absolute; top: 500px; left: 1000px;}
+  #monkey {position: absolute; top: 550px; right: 120px;}
 }
