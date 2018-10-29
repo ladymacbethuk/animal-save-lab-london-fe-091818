@@ -21,7 +21,7 @@ html {
 /* Write your solution here */
 
 @media screen and (max-width: 970px){
-  #dolphin {transform: rotate(45)}
+  #dolphin {transform: rotate(45deg)}
 }
 
 
